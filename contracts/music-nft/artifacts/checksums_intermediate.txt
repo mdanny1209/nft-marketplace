@@ -1,0 +1,1 @@
+94f443d734129e4fe6d09e184fb76c340ec67deacb83ec4a8e2004e50588dd1a  ./target/wasm32-unknown-unknown/release/music_nft.wasm
